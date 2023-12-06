@@ -1,5 +1,5 @@
 # Ignorar a pasta env
-env/
+.env/
 
 # Ignorar a pasta node_modules
 node_modules/
